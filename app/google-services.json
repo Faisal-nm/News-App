@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808855903000",
+    "project_id": "news-app-assignment",
+    "storage_bucket": "news-app-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808855903000:android:329dda06dbc4a2e04b5c6d",
+        "android_client_info": {
+          "package_name": "com.faisalnazir.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808855903000-a4eucv2v6h7en2egkou9jn5h0j4mppnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWesXYdoM13XKrJOWgM-iiz5RSPcvu7qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808855903000-a4eucv2v6h7en2egkou9jn5h0j4mppnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
